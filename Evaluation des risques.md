@@ -1,5 +1,8 @@
 
-# Cartographies de Cabo Delgado
+
+# Analyse de Risques & Solutions
+
+## Cartographies de Cabo Delgado
 
 ### Végétation
 
@@ -17,3 +20,28 @@ Lien : [Ici](https://www.strava.com/maps/global-heatmap?style=dark&terrain=false
 ![[Pasted image 20240325032947.png]]
 Lien : [Ici](https://openinframap.org/#9.15/-11.128/40.1943)
 ### Maritimes
+
+
+## Catastrophes Naturelle
+
+## Coupure de courant
+
+
+## Destruction de batiments
+
+
+## Protestations Humanitaire & Écologique
+
+## Attaque Terroriste
+
+
+### Conséquences Directe de l'attaque
+
+
+### Coupure d'approvisionnement
+
+### Attaque sur l'infrastructure à terre
+
+### Attaque sur l'infrastructure offshore
+
+### Continuité & Reprise de l'activité
