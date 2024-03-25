@@ -24,10 +24,10 @@ Lien : [Ici](https://openinframap.org/#9.15/-11.128/40.1943)
 
 ## Catastrophes Naturelle
 
-## Coupure de courant
+### Coupure de courant
 
 
-## Destruction de batiments
+### Destruction de batiments
 
 
 ## Protestations Humanitaire & Écologique
@@ -37,10 +37,63 @@ Lien : [Ici](https://openinframap.org/#9.15/-11.128/40.1943)
 
 ### Conséquences Directe de l'attaque
 
+#### Scénario 1: Attaque de faible ampleur
+
+##### Description du scénario
+Le groupe de terroristes est composé d'un faible nombre d'assaillants. Les dégâts et les pertes civiles sont faibles et les affrontements n'ont lieu qu'à certain endroits de la ville. L'attaque est rapidement repoussée et la ville est sécurisée au bout d'un délai compris entre plusieurs heures et quelques jours de combats non interromput.
+
+#### Conséquences
+Continuité d'activité génée mais non stoppée.
+
+##### Solutions
+*Évacuer uniquement les zones confrontée au danger et construire des hôpitaux et des abris d’urgence, 
+*Prévoir un plan de reconstruction non prioritaire
+
+#### Scénario 2: Attaque de moyenne ampleur
+##### Description du scénario
+Le groupe de terroristes est composé d'un nombre important d'assaillants organisés. Les combats ont lieu sur l'ensemble de la ville. L'attaque est péniblement repoussée, les dégâts sont grand.
+
+#### Conséquences
+Continuité d'activité stoppée temporairement mais possibilité de réaliser la reprise d'activité sur le site de Palma rapidement.
+
+##### Solutions
+
+*Évacuer la majeure partie des civils avec le plan d’évacuation concu
+*Plan de reconstruction prioritaire plusieurs jours après la fin des combats
+*Prévoir des renforts pour assurer la protection de la ville dans le cas d'une nouvelle attaque
+
+#### Scénario 3: Attaque de grande ampleur
+##### Description du scénario
+Le groupe de terroristes est composé d'un nombre important d'assaillants organisés. Les combats ont lieu sur l'ensemble de la ville. L'attaque n'est pas repoussée et les terroristes s'emparent de la ville.
+
+
+#### Conséquences
+Continuité d'activité stoppée pour un temps non défini et impossibilité de réaliser la reprise d'activité sur le site de Palma.
+
+##### Solutions
+*Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
+*Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
+
 
 ### Coupure d'approvisionnement
+##### Description du scénario
+Les terroristes ne mènent pas d'actions directes à l'encontre de la ville, mais attaquent les villages environnants et bloquent l'acheminement de provisions et d'eau potable.
+
+##### Solutions
+Utiliser les bateaux pour le ravitaillement.
+
 
 ### Attaque sur l'infrastructure à terre
+##### Description du scénario
+Les terroristes attaquent le site de production de Total situé à Afungi dans l'objectif de détruire l'infrastructure ou d'en prendre le contrôle.
+
+
+#### Conséquences
+Continuité d'activité stoppée pour un temps non défini et impossibilité de réaliser la reprise d'activité sur le site de Palma.
+
+##### Solutions
+
+
 
 ### Attaque sur l'infrastructure offshore
 
