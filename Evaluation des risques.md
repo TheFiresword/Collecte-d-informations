@@ -86,6 +86,8 @@ Le groupe de terroristes est composé d'un nombre important d'assaillants organi
 
 #### Conséquences
 Continuité d'activité stoppée pour un temps non défini et impossibilité de réaliser la reprise d'activité sur le site de Palma.
+Dégât à l'image de l'entreprise.
+Morts & Blessés
 
 ##### Solutions
 *Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
@@ -109,9 +111,22 @@ Les terroristes attaquent le site de production de Total situé à Afungi dans l
 Continuité d'activité stoppée pour un temps non défini et impossibilité de réaliser la reprise d'activité sur le site de Palma.
 
 ##### Solutions
-
-
+Engager des compagnies privées pour surveiller le lieu de production.
 
 ### Attaque sur l'infrastructure offshore
+##### Description du scénario
+Les terroristes attaquent le site d'extraction de gas de Total situé [ici](https://www.marinetraffic.com/fr/ais/home/centerx:40.9/centery:-11.1/zoom:9) dans l'objectif de détruire l'infrastructure ou d'en prendre le contrôle.
+##### Conséquences
+Continuité d'activité stoppée pour un temps non défini et impossibilité d'extraire le gas.
+
+##### Solutions
+Faire surveiller le site d'extraction par hélicoptère et bateaux armés.
 
 ### Continuité & Reprise de l'activité
+
+* Prévoir une installation de backup dans une autre ville (Pemba), au cas où l'infrastructure de Palma devient hors service pendant un temps trop long
+* Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'éléctricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
+* Prévoir un plan de reconstruction en fonction des dégats.
+
+
+
