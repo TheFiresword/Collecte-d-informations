@@ -14,6 +14,11 @@ https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyc
 ⭐⭐
 https://hungermap.wfp.org/ 
 
+### Palma
+https://fr.wikipedia.org/wiki/Palma_(Mozambique)#:~:text=Population%20et%20d%C3%A9mographie,-Centre%20de%20sant%C3%A9&text=En%2025%20ans%2C%20la%20ville,comptait%20environ%2075%20000%20habitants.
+
+
+
 
 ## Projet Mozambique LNG
 
@@ -25,7 +30,21 @@ https://www.marinetraffic.com/fr/ais/home/centerx:38.5/centery:-11.7/zoom:8
 
 ### Objectif du Projet
 ⭐ 
+
 https://www.mozambiquelng.co.mz/about-the-mozambique-liquefied-natural-gas-project/ 
+
+
+
+### Protestation Humanitaire
+https://www.amisdelaterre.org/communique-presse/total-faces-criminal-charges-in-french-courts-for-its-negligence-during-the-palma-attack-in-northern-mozambique/
+
+https://reclaimfinance.org/site/2023/11/17/mozambique-lng-appel-a-se-retirer-du-projet-de-totalenergies/
+
+https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/
+
+
+### Protestation Écologique
+https://defundtotalenergies.org/mozambique-lng
 
 
 ## Attaque sur Palma

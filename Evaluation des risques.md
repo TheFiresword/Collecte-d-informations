@@ -45,12 +45,35 @@ Cela signifie que la seule ville proche où on peut se ravitailler en carburant 
 
 ### Destruction de batiments
 
+#### Rappel des valeurs des assets
+
+En 2019 d'après l'[African Development Bank](https://www.afdb.org/sites/default/files/documents/projects-and-operations/mozambique_-_mozambique_lng_area_1_-_psn_compressed.pdf) la valeur globale du projet était de 24 milliard, dont 18 milliard d'investissement.
+
+Les investissements dans le projet de la part directe de Total valent 15 milliards en 2020 d'après [worldoil](https://www.worldoil.com/news/2020/5/20/total-lands-15-billion-financing-commitment-for-mozambique-lng-project), la valeur globale du projet est elle estimée à $23 milliard.
+
+Le projet se constitue de 2 champs gazier offshore, de 2 trains de liquéfaction et d'environ 120 puits de production potentiels, soit 18000 hectares ([source](https://defundtotalenergies.org/mozambique-lng))
 
 ## Protestations Humanitaire & Écologique
 
+### Description du scénario
+
+Le projet Mozambique LNG se déroulant en zone de risque, impliquant un certain nombre de civil (75 000 en 2021 d'après [wikipedia](https://fr.wikipedia.org/wiki/Palma_(Mozambique)#:~:text=Population%20et%20d%C3%A9mographie,-Centre%20de%20sant%C3%A9&text=En%2025%20ans%2C%20la%20ville,comptait%20environ%2075%20000%20habitants.)) dont Total sera jugé [responsable](https://www.amisdelaterre.org/communique-presse/total-faces-criminal-charges-in-french-courts-for-its-negligence-during-the-palma-attack-in-northern-mozambique/) en cas de problème avec une attaque terroriste qui est très probable en raison d'un certain nombres d'attaque ayant eu lieu dans la région et forcé des populations civiles à évacuer ([source](https://www.africanews.com/2023/10/10/mozambique-total-accused-of-involuntary-manslaughter-over-palma-2021-attack/)) ou encore n'apportant un soutien que limité car fuyant les taxes (environ 1.45 milliard) ([source](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf)), causant beaucoup de problèmes environnementaux (étant par exemple une [bombe carbonne](https://defundtotalenergies.org/mozambique-lng) non compatible avec un réchauffement planétaire inférieur ou égal à 1.5°C) et nécessitant un espace terrestre qui a necessité de reloger 310 familles du village de [Quitupo](https://reclaimfinance.org/site/2023/11/17/mozambique-lng-appel-a-se-retirer-du-projet-de-totalenergies/) (où se trouve le site de production d'Afungi de Total), comporte beaucoup d'enjeux ssceptible de soulever maintes [protestations](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/).
+
+
+### Conséquences
+
+En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit.
+
+### Solutions
+
+Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
+
+Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
+
+
+Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
 
 ## Attaque Terroriste
-
 
 ### Conséquences Directe de l'attaque
 
