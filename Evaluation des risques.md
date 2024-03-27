@@ -86,8 +86,8 @@ Le groupe de terroristes est composé d'un faible nombre d'assaillants. Les dég
 Continuité d'activité génée mais non stoppée.
 
 ##### Solutions
-*Évacuer uniquement les zones confrontée au danger et construire des hôpitaux et des abris d’urgence, 
-*Prévoir un plan de reconstruction non prioritaire
+* Évacuer uniquement les zones confrontée au danger et construire des hôpitaux et des abris d’urgence, 
+* Prévoir un plan de reconstruction non prioritaire
 
 #### Scénario 2: Attaque de moyenne ampleur
 ##### Description du scénario
@@ -98,9 +98,9 @@ Continuité d'activité stoppée temporairement mais possibilité de réaliser l
 
 ##### Solutions
 
-*Évacuer la majeure partie des civils avec le plan d’évacuation concu
-*Plan de reconstruction prioritaire plusieurs jours après la fin des combats
-*Prévoir des renforts pour assurer la protection de la ville dans le cas d'une nouvelle attaque
+* Évacuer la majeure partie des civils avec le plan d’évacuation concu
+* Plan de reconstruction prioritaire plusieurs jours après la fin des combats
+* Prévoir des renforts pour assurer la protection de la ville dans le cas d'une nouvelle attaque
 
 #### Scénario 3: Attaque de grande ampleur
 ##### Description du scénario
@@ -113,8 +113,8 @@ Dégât à l'image de l'entreprise.
 Morts & Blessés
 
 ##### Solutions
-*Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
-*Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
+* Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
+* Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
 
 
 ### Coupure d'approvisionnement
