@@ -1,2 +1,0 @@
-
-# Arlindo Chissale

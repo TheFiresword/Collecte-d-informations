@@ -50,4 +50,8 @@ Dans les contacts, on retrouve :
 	Le nombre d'attaques à Palma a augmenté
 	![[Pasted image 20240328013811.png]]
 	Source : https://acleddata.com/2020/10/20/cabo-ligado-weekly-12-18-october-2020/
-	
+
+
+
+Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), Cinq districts de la province de Cabo Delgado ont été isolée, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
+https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021

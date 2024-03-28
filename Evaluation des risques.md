@@ -1,92 +1,24 @@
+## Collecte d'informations
 
-## Cartographies de Cabo Delgado
+- Fichier [[Analyse des sources ouvertes]]
+- Fichier [[Investigation OSINT]]
 
-Les points d'intérêt à analyser sont le site d'extraction de Total, situé à Afungi, et les régions aux alentours.
-### Végétation
+## Rappel des valeurs des assets
 
-On peut déja remarquer que les 2 villes les plus proches sont Palma et Mocimboa de Praia. Mais à l'Ouest, il y a une grande forêt : Pundanhar
+En 2019 d'après l'[African Development Bank](https://www.afdb.org/sites/default/files/documents/projects-and-operations/mozambique_-_mozambique_lng_area_1_-_psn_compressed.pdf) la valeur globale du projet était de 24 milliards de dollars, dont 18 milliards d'investissement.
+Les investissements dans le projet de la part directe de Total valent 15 milliards en 2020 d'après [worldoil](https://www.worldoil.com/news/2020/5/20/total-lands-15-billion-financing-commitment-for-mozambique-lng-project).
+Le projet se constitue de 2 champs gaziers offshore, de 2 trains de liquéfaction et d'environ 120 puits de production potentiels, soit 18000 hectares ([source](https://defundtotalenergies.org/mozambique-lng)).
+(NOTE PAG)
+Le nombre d'employés directs est estimé à
 
-![[Pasted image 20240326233124.png]]
-![[Pasted image 20240326232915.png]]
-![[Pasted image 20240326005047.png]]
-Lien : [Ici](https://www.google.com/maps/dir/Moc%C3%ADmboa+da+Praia,+Mozambique/Total+LNG+Gas+project,+Palma,+Mozambique/Palma,+Mozambique/Pundanhar,+Mozambique/@-11.0263953,40.0299229,104919m/data=!3m1!1e3!4m26!4m25!1m5!1m1!1s0x1893697908236137:0x69ab16a96d94ff2a!2m2!1d40.3522402!2d-11.3535985!1m5!1m1!1s0x1892fb343957a189:0x9b802443d1994cf!2m2!1d40.5131681!2d-10.8508636!1m5!1m1!1s0x1892ee2f268b3897:0x9a1719840e5f764!2m2!1d40.4745459!2d-10.7743717!1m5!1m1!1s0x1892d21ea666c985:0xaf6ac398f4d44161!2m2!1d40.0562867!2d-10.8924666!3e2!5m2!1e2!1e4?ucbcb=1&entry=ttu)
+## Catastrophes naturelles
 
-C'est une zone très dense en végétation. La distance entre la forêt de Pundanhar et la ville de Palma est de `52.3km` et la distance entre Palma et Mocimboa da Praia est de `82.1km`
-Pundanhar est une vaste région forestière, parsemée de petits lacs. C'est donc un endroit idéal pour les trafiquants et terroristes. 
-
-### Activités
-
-![[Pasted image 20240325032307.png]]
-Lien : [Ici](https://www.strava.com/maps/global-heatmap?style=dark&terrain=false&sport=All&gColor=blue&gOpacity=100&labels=true&poi=true#9/-10.9544/40.2236)
-On remarque que les zones où il y a le plus d'activités sont évidemment autour des villes habitées, Palma et Mocimboa, mais également le site du projet LNG. Des aller-retour sont fréquents entre Palma et le site de Total, probablement les travailleurs. 
-Il y a une route qui est très empruntée, entre Palma et Mute, la route `R762`. La distance entre ces 2 points est d'à peu près 31km. Donc on peut supposer que c'est une activité motorisée (voiture ou moto).
-D'ailleurs, c'est la seule route terrestre qui relie Palma à Mocimboa.
-![[Pasted image 20240326011533.png]]
-Lien : [Ici](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=-10.7742%2C40.4650%3B-11.3434%2C40.3538#map=10/-11.0834/40.2663&layers=T)
-
-### Transport
-En dehors des routes terrestres, des aérodromes sont présents aux alentours de Palma et Afungi. Ce qui peut constituer un bon point de départ pour des opérations d'exfiltration ou d'évacuation.
-![[Pasted image 20240326013133.png]]
-Lien : [Ici](https://ourairports.com/big-map.html)
-**Solution** : Construire un héliport très proche du site d'exploitation.
-
-Il y a aussi un port au large de Afungi, près du site du projet LNG.
-![[Pasted image 20240326014949.png]]
-Lien: [Ici](https://map.openseamap.org/)
-
-### Electricité
-La zone est peu couverte en électricité comme le montre cette carte. Ce qui peut présenter des risques de coupure d'électricité pour une entreprise industrielle.
-![[Pasted image 20240325032947.png]]
-Lien : [Ici](https://openinframap.org/#9.15/-11.128/40.1943)
-
-Il y a uniquement 3 stations service (essence) dans la région, comme le montre cette carte :
-![[Pasted image 20240326015733.png]]
-Lien : [Ici](https://yandex.com/maps/?display-text=Gas%20stations&ll=40.544819%2C-10.751108&mode=search&sctx=ZAAAAAgBEAAaKAoSCdvEyf0OQURAEShIbHcPsCXAEhIJfGDHf4EgxD8ReVc9YB4yuT8iBgABAgMEBSgKOABA86UBSAFqAnJ1nQHNzEw9oAEAqAEAvQH7qdTAwgES5vD37PUGm%2BWD7fgE9aG59uwBggIG0JDQl9ChigIJMTg0MTA1Mjc0kgIAmgIMZGVza3RvcC1tYXBzqgK8ATU2MDg0NjA1MDUsNjAwMzU1OSwxOTYyMTYwNTgyLDM1OTIzMDUyNTEsMzUyOTQ4MzU3MjAsMzk0MTgxNDc0LDQxMjg1MTE1MjQ0LDIwNDc1NjAyNzEyLDIwNDc1NjAyMTc2LDE5MTM4OTQ1NzAsOTE1MTMzODAxLDEzNDM1NzY3MzEsMTY3MDAyNTEzNTAsMTYzNTUzOTIyMSwyMDQ3NTYwMTAxNSwyMDY5OTMwMzYwLDIwNDc1NTk4NzYz&sll=40.544819%2C-10.751108&sspn=0.628967%2C0.393808&text=%D0%90%D0%97%D0%A1&z=11)
-Cela signifie que la seule ville proche où on peut se ravitailler en carburant est Palma.
-**Solution** : Faire beaucoup de réserves de carburant, et sécuriser les stocks.
-
-## Catastrophes Naturelle
+### Destruction de l'infrastructure
 
 
-### Destruction de batiments
-
-#### Rappel des valeurs des assets
-
-En 2019 d'après l'[African Development Bank](https://www.afdb.org/sites/default/files/documents/projects-and-operations/mozambique_-_mozambique_lng_area_1_-_psn_compressed.pdf) la valeur globale du projet était de 24 milliard, dont 18 milliard d'investissement.
-
-Les investissements dans le projet de la part directe de Total valent 15 milliards en 2020 d'après [worldoil](https://www.worldoil.com/news/2020/5/20/total-lands-15-billion-financing-commitment-for-mozambique-lng-project), la valeur globale du projet est elle estimée à $23 milliard.
-
-Le projet se constitue de 2 champs gazier offshore, de 2 trains de liquéfaction et d'environ 120 puits de production potentiels, soit 18000 hectares ([source](https://defundtotalenergies.org/mozambique-lng))
-
-## Protestations Humanitaire & Écologique
-
-### Description du scénario
-
-Le projet Mozambique LNG se déroulant en zone de risque, impliquant un certain nombre de civil (75 000 en 2021 d'après [wikipedia](https://fr.wikipedia.org/wiki/Palma_(Mozambique)#:~:text=Population%20et%20d%C3%A9mographie,-Centre%20de%20sant%C3%A9&text=En%2025%20ans%2C%20la%20ville,comptait%20environ%2075%20000%20habitants.)) dont Total sera jugé [responsable](https://www.amisdelaterre.org/communique-presse/total-faces-criminal-charges-in-french-courts-for-its-negligence-during-the-palma-attack-in-northern-mozambique/) en cas de problème avec une attaque terroriste qui est très probable en raison d'un certain nombres d'attaque ayant eu lieu dans la région et forcé des populations civiles à évacuer ([source](https://www.africanews.com/2023/10/10/mozambique-total-accused-of-involuntary-manslaughter-over-palma-2021-attack/)) ou encore n'apportant un soutien que limité car fuyant les taxes (environ 1.45 milliard) ([source](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf)), causant beaucoup de problèmes environnementaux (étant par exemple une [bombe carbonne](https://defundtotalenergies.org/mozambique-lng) non compatible avec un réchauffement planétaire inférieur ou égal à 1.5°C) et nécessitant un espace terrestre qui a necessité de reloger 310 familles du village de [Quitupo](https://reclaimfinance.org/site/2023/11/17/mozambique-lng-appel-a-se-retirer-du-projet-de-totalenergies/) (où se trouve le site de production d'Afungi de Total), comporte beaucoup d'enjeux ssceptible de soulever maintes [protestations](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/).
-
-
-### Conséquences
-
-En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit.
-
-### Solutions
-
-Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
-
-Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
-
-
-Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
+## Protestations Humanitaires & Écologiques
 
 ## Attaques terroristes
-
-On a considéré une période d'un an avant l'attaque, soit de mars 2020 à mars 2021.
-Les sources utilisées sont :
-- Groupe Telegram de Pinnacle News : Lien ici
-- Site web de Pinnacle News : Lien ici
-La méthode de renseignement est expliquée dans le fichier [[Analyse des sources ouvertes]].
-
-### Conséquences Directe de l'attaque
 
 #### Scénario 1: Attaque de faible ampleur
 
@@ -128,7 +60,7 @@ Morts & Blessés
 * Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
 
 
-### Coupure d'approvisionnement
+### Coupure d'approvisionnement en nourriture & eau & carburant
 ##### Description du scénario
 Les terroristes ne mènent pas d'actions directes à l'encontre de la ville, mais attaquent les villages environnants et bloquent l'acheminement de provisions et d'eau potable.
 
@@ -161,6 +93,24 @@ Faire surveiller le site d'extraction par hélicoptère et bateaux armés.
 * Prévoir une installation de backup dans une autre ville (Pemba), au cas où l'infrastructure de Palma devient hors service pendant un temps trop long
 * Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'éléctricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
 * Prévoir un plan de reconstruction en fonction des dégats.
+
+### Description du scénario
+
+Le projet Mozambique LNG se déroulant en zone de risque, impliquant un certain nombre de civil (75 000 en 2021 d'après [wikipedia](https://fr.wikipedia.org/wiki/Palma_(Mozambique)#:~:text=Population%20et%20d%C3%A9mographie,-Centre%20de%20sant%C3%A9&text=En%2025%20ans%2C%20la%20ville,comptait%20environ%2075%20000%20habitants.)) dont Total sera jugé [responsable](https://www.amisdelaterre.org/communique-presse/total-faces-criminal-charges-in-french-courts-for-its-negligence-during-the-palma-attack-in-northern-mozambique/) en cas de problème avec une attaque terroriste qui est très probable en raison d'un certain nombres d'attaque ayant eu lieu dans la région et forcé des populations civiles à évacuer ([source](https://www.africanews.com/2023/10/10/mozambique-total-accused-of-involuntary-manslaughter-over-palma-2021-attack/)) ou encore n'apportant un soutien que limité car fuyant les taxes (environ 1.45 milliard) ([source](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf)), causant beaucoup de problèmes environnementaux (étant par exemple une [bombe carbonne](https://defundtotalenergies.org/mozambique-lng) non compatible avec un réchauffement planétaire inférieur ou égal à 1.5°C) et nécessitant un espace terrestre qui a necessité de reloger 310 familles du village de [Quitupo](https://reclaimfinance.org/site/2023/11/17/mozambique-lng-appel-a-se-retirer-du-projet-de-totalenergies/) (où se trouve le site de production d'Afungi de Total), comporte beaucoup d'enjeux susceptible de soulever maintes [protestations](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/).
+### Conséquences
+
+En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit.
+
+### Solutions
+
+Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
+
+Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
+
+
+Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
+
+
 
 
 

@@ -8,15 +8,3 @@ Elle a été assiégée de mars 2021 à avril 2021 par un groupe terroriste affi
 A travers ce rapport, nous allons mettre en place un plan de gestion de crise qui aurait pu être appliqué avant l'attaque, de manière à réduire les dégâts.
 
 **
-
-# La géographie
-
-- Maritime
-- Forestière
-- Routière
-- Gazière
-
-
-- Forêt
-- Fuite en voiture vers la péninsule d'Afungi
-- Il y a 3 routes principales pour quitter Palma, pas de sécurisation des lieux stratégiques pendant la nuit du 26 au 27 mars, les troupes gouvernementales battent en retraite, probablement pour défendre Afungi.
