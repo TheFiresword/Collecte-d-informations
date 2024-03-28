@@ -19,4 +19,35 @@ Dans les contacts, on retrouve :
 - l'adresse mail suivante : **info@pinnaclenews.net**
 - le compte Telegram suivant : https://web.telegram.org/k/#@pinnaclenews
 
+### Recensement des attaques dans Cabo Delgado de septembre 2020 à mars 2021 (6 mois)
 
+- En Septembre 2020
+	Des militants de l'Etat Islamique ont mené une opération de siège de la ville de Palma depuis plusieurs locations. La carte ci-dessous montre en noir, les positions des assaillants, et en jaune les positions des forces militaires.
+	![[Pasted image 20240327232424.png]]
+	Lien : [ici](https://t.me/pinnaclenews/12198)
+	La carte suivante retrace toutes les attaques survenues du 7 au 13 Septembre 2020
+	![[Pasted image 20240327233800.png]]
+	Lien [ici](http://www.acleddata.com/2020/09/15/cabo-ligado-weekly-7-13-september-2020/)
+	
+	Le 15 Septembre 2020, un internaute Twitter, postait déja un message indiquant la fragilité de la sécurité du projet LNG, suite à une attaque sur un véhicule transportant des civils entre `Palma et Nangade`.
+	![[Pasted image 20240327234805.png]]
+	Lien [ici](https://twitter.com/ryanmofarrell/status/1305928827290480644?s=19)
+	Le lien fourni donne accès à un site web qui semble donner les actualités du Mozambique, et qui explique en détail l'attaque.
+	Un autre internaute, `Nuno Rogeiro` journaliste et analyste géopolitique, a posté un tweet qui insinue que Daesh veut s'attaquer au projet LNG.
+	![[Pasted image 20240327235448.png]]
+	NB : La vérité de ses propos est à prendre à la légère, il a été accusé de fake news plusieurs fois.
+	
+	Vers le 20 Septembre, des rumeurs annoncent que la région entière de Cabo Delgado a été coupée du reste du pays.
+	Deux sources semblent le confirmer :
+	* le site [Club of Mozambique](Metundo, Quifuqui, and Vamizi)
+	* Monsieur `Pieter Van Ostaeyen`, chercheur invité à la Fondation européenne pour la démocratie à Bruxelles et membre du comité éditorial de l'ICCT à La Haye. Son [tweet](https://twitter.com/p_vanostaeyen/status/1307782749454036994?s=19)
+	Il semblerait également que les terroristes ne se limitent pas au blocage terrestre, mais veulent contrôler l'accès par la mer également.
+	Des attaques ont été menées sur 3 îles : `Metundo`, `Quifuqui`, et  `Vamizi`
+	![[Pasted image 20240328003126.png]]
+	Lien [ici](https://yandex.com/maps/?ll=40.538417%2C-11.056165&mode=routes&rtext=-11.189804%2C40.608026~-10.775162%2C40.467334~-11.160956%2C40.680358~-11.023198%2C40.690503&rtt=auto&ruri=ymapsbm1%3A%2F%2Forg%3Foid%3D154025396626~~ymapsbm1%3A%2F%2Forg%3Foid%3D101423797316~ymapsbm1%3A%2F%2Forg%3Foid%3D222205332062&z=10)
+
+- En Octobre 2020
+	Le nombre d'attaques à Palma a augmenté
+	![[Pasted image 20240328013811.png]]
+	Source : https://acleddata.com/2020/10/20/cabo-ligado-weekly-12-18-october-2020/
+	

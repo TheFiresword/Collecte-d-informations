@@ -1,21 +1,26 @@
 
 ## Cartographies de Cabo Delgado
 
+Les points d'intérêt à analyser sont le site d'extraction de Total, situé à Afungi, et les régions aux alentours.
 ### Végétation
 
-![[Pasted image 20240325030715.png]]
+On peut déja remarquer que les 2 villes les plus proches sont Palma et Mocimboa de Praia. Mais à l'Ouest, il y a une grande forêt : Pundanhar
+
+![[Pasted image 20240326233124.png]]
+![[Pasted image 20240326232915.png]]
 ![[Pasted image 20240326005047.png]]
-Lien : [Ici](https://www.google.com/maps/dir/Moc%C3%ADmboa+da+Praia,+Mozambique/Palma,+Mozambique/Pundanhar,+Mozambique/@-11.2150304,39.6285146,209702m/data=!3m1!1e3!4m20!4m19!1m5!1m1!1s0x1893697908236137:0x69ab16a96d94ff2a!2m2!1d40.3522402!2d-11.3535985!1m5!1m1!1s0x1892ee2f268b3897:0x9a1719840e5f764!2m2!1d40.4745459!2d-10.7743717!1m5!1m1!1s0x1892d21ea666c985:0xaf6ac398f4d44161!2m2!1d40.0562867!2d-10.8924666!3e2!5m2!1e2!1e4?ucbcb=1&entry=ttu)
+Lien : [Ici](https://www.google.com/maps/dir/Moc%C3%ADmboa+da+Praia,+Mozambique/Total+LNG+Gas+project,+Palma,+Mozambique/Palma,+Mozambique/Pundanhar,+Mozambique/@-11.0263953,40.0299229,104919m/data=!3m1!1e3!4m26!4m25!1m5!1m1!1s0x1893697908236137:0x69ab16a96d94ff2a!2m2!1d40.3522402!2d-11.3535985!1m5!1m1!1s0x1892fb343957a189:0x9b802443d1994cf!2m2!1d40.5131681!2d-10.8508636!1m5!1m1!1s0x1892ee2f268b3897:0x9a1719840e5f764!2m2!1d40.4745459!2d-10.7743717!1m5!1m1!1s0x1892d21ea666c985:0xaf6ac398f4d44161!2m2!1d40.0562867!2d-10.8924666!3e2!5m2!1e2!1e4?ucbcb=1&entry=ttu)
 
 C'est une zone très dense en végétation. La distance entre la forêt de Pundanhar et la ville de Palma est de `52.3km` et la distance entre Palma et Mocimboa da Praia est de `82.1km`
-Pundanhar est une vaste région forestière, parsemée de petits lacs. C'est donc un endroit idéal pour les traffiquants et terroristes. 
+Pundanhar est une vaste région forestière, parsemée de petits lacs. C'est donc un endroit idéal pour les trafiquants et terroristes. 
 
 ### Activités
 
 ![[Pasted image 20240325032307.png]]
 Lien : [Ici](https://www.strava.com/maps/global-heatmap?style=dark&terrain=false&sport=All&gColor=blue&gOpacity=100&labels=true&poi=true#9/-10.9544/40.2236)
-On remarque que les zones où il y a le plus d'activités sont évidemment autour des villes habitées, Palma et Mocimboa. Il y a une route qui est très empruntée, entre Palma et Mute, la route `R762`. La distance entre ces 2 points est d'à peu près 31km. Donc on peut supposer que c'est une activité motorisée (voiture ou moto).
-D'ailleurs, c'est la route terrestre qui relie Palma à Mocimboa (site de Total).
+On remarque que les zones où il y a le plus d'activités sont évidemment autour des villes habitées, Palma et Mocimboa, mais également le site du projet LNG. Des aller-retour sont fréquents entre Palma et le site de Total, probablement les travailleurs. 
+Il y a une route qui est très empruntée, entre Palma et Mute, la route `R762`. La distance entre ces 2 points est d'à peu près 31km. Donc on peut supposer que c'est une activité motorisée (voiture ou moto).
+D'ailleurs, c'est la seule route terrestre qui relie Palma à Mocimboa.
 ![[Pasted image 20240326011533.png]]
 Lien : [Ici](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=-10.7742%2C40.4650%3B-11.3434%2C40.3538#map=10/-11.0834/40.2663&layers=T)
 
@@ -23,7 +28,7 @@ Lien : [Ici](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&ro
 En dehors des routes terrestres, des aérodromes sont présents aux alentours de Palma et Afungi. Ce qui peut constituer un bon point de départ pour des opérations d'exfiltration ou d'évacuation.
 ![[Pasted image 20240326013133.png]]
 Lien : [Ici](https://ourairports.com/big-map.html)
-**Solution** : Construire un héliport près de Afungi
+**Solution** : Construire un héliport très proche du site d'exploitation.
 
 Il y a aussi un port au large de Afungi, près du site du projet LNG.
 ![[Pasted image 20240326014949.png]]
@@ -49,8 +54,13 @@ Cela signifie que la seule ville proche où on peut se ravitailler en carburant 
 ## Protestations Humanitaire & Écologique
 
 
-## Attaque Terroriste
+## Attaques terroristes
 
+On a considéré une période d'un an avant l'attaque, soit de mars 2020 à mars 2021.
+Les sources utilisées sont :
+- Groupe Telegram de Pinnacle News : Lien ici
+- Site web de Pinnacle News : Lien ici
+La méthode de renseignement est expliquée dans le fichier [[Analyse des sources ouvertes]].
 
 ### Conséquences Directe de l'attaque
 

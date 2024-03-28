@@ -1,4 +1,4 @@
-**
+![[Pasted image 20240327001644.png]]
 # Contexte et objectif
 
 Attaques djihadistes depuis 2017 dans la province de Cabo Delgado.
