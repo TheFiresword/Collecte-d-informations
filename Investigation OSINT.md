@@ -4,7 +4,7 @@
 Les points d'intérêt à analyser sont le site d'extraction de Total, situé à Afungi, et les régions aux alentours.
 ### Végétation
 
-On peut déja remarquer que les 2 villes les plus proches sont Palma et Mocimboa de Praia. Mais à l'Ouest, il y a une grande forêt : Pundanhar
+On peut déjà remarquer que les 2 villes les plus proches sont Palma et Mocimboa de Praia. Mais à l'Ouest, il y a une grande forêt : Pundanhar
 
 ![[Pasted image 20240326233124.png]]
 ![[Pasted image 20240326232915.png]]

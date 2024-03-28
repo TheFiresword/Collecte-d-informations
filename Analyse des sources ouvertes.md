@@ -50,8 +50,16 @@ Dans les contacts, on retrouve :
 	Le nombre d'attaques à Palma a augmenté
 	![[Pasted image 20240328013811.png]]
 	Source : https://acleddata.com/2020/10/20/cabo-ligado-weekly-12-18-october-2020/
+	
+* En Décembre 2020
+	Le village de Mute (situé à 20km de Afungi) a été attaqué par les terroristes. Leur but était de s'en prendre au site du projet LNG. Les sources sont : un post Twitter de `Borges Nhamirre` (voir lien [ici](https://twitter.com/BorgesNhamirre/status/1336251363014086656)) , et le site [Club of Mozambique](https://clubofmozambique.com/news/mozambique-president-praises-response-of-government-forces-to-attack-near-gas-megaprojects-179767/).
+	Les statistiques des autres attaques survenues dans la région sont présentées dans l'image suivante :
+	![[Pasted image 20240328215305.png]]
+	Lien [ici](https://acleddata.com/2020/12/08/cabo-ligado-weekly-30-november-6-december/)
+	On apprend aussi la réouverture d'un pont sur la rivière Montepuez à Moja dans la ville de Quissanga, par le président du Mozambique, le 27 Décembre 2020. Via un article sur le site pinnacle news (voir lien [ici](https://web.archive.org/web/20220517140827/https://pinnaclenews.net/presidente-inaugura-a-ponte-sobre-o-rio-montepuez-em-moja-quissanga/)). Ce pont a été détruit 2 fois en 2020 par les terroristes, empêchant ainsi l'approvisionnement de la ville, la logistique de Total, et l'arrivée des aides humanitaires.
+	![[Pasted image 20240328220731.png]]
 
+### Autres évènements
 
-
-Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), Cinq districts de la province de Cabo Delgado ont été isolée, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
-https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021
+Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), Cinq districts de la province de Cabo Delgado ont été isolés, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
+https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021.
