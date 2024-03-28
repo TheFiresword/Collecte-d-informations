@@ -10,6 +10,9 @@ Les investissements dans le projet de la part directe de Total valent 15 milliar
 
 Le projet se constitue de 2 champs gaziers offshore, les concessions d’ENI (bloc 4) et d’Anadarko (bloc 1), situés dans le bassin du Rovuma à proximité de la frontière tanzanienne.  de 2 trains de liquéfaction et d'environ 120 puits de production potentiels, soit 18000 hectares ([source](https://defundtotalenergies.org/mozambique-lng)) ([source2](https://www.tresor.economie.gouv.fr/Articles/2017/12/27/le-gaz-au-mozambique)).
 
+![[Image collée.png]]
+
+
 Les sites de production comportent des terminaux, trains de GNL, réservoirs, embarcadères et autres, et sont reliés au site d'extraction par des gazoducs([source2](https://www.tresor.economie.gouv.fr/Articles/2017/12/27/le-gaz-au-mozambique)) d'une longueur de 40km. [source](https://www.mitsui.com/jp/en/innovation/business/mozambique_lng/index.html) 
 
 
@@ -31,3 +34,4 @@ Le projet Mozambique LNG se déroulant en zone de risque, impliquant un certain 
 
 ## Attaques terroristes
 
+Voir [[Analyse des sources ouvertes#Recensement des attaques dans Cabo Delgado de septembre 2020 à mars 2021 (6 mois)]]
