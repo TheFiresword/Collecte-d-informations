@@ -61,8 +61,8 @@ Dans les contacts, on retrouve :
 
 ### Autres évènements
 
-Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), Cinq districts de la province de Cabo Delgado ont été isolés, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
-https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021.
+Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), et cette [source](https://clubofmozambique.com/news/bridge-collapses-into-flooded-river-leaving-more-than-5000-stranded-in-catuane-matutuine-184707/) et encore cette [source](https://clubofmozambique.com/news/mozambique-montepuez-bridge-collapsed-due-to-natural-causes-investigation-concludes-154655/) Cinq districts de la province de Cabo Delgado ont été isolée, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
+https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021
 
 
 ### Conflits éthiques et religieux au Mozambique
