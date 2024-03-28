@@ -55,3 +55,18 @@ Dans les contacts, on retrouve :
 
 Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/), Cinq districts de la province de Cabo Delgado ont été isolée, suite aux inondations causée par le cyclone Eloise, autres sources: [1](https://www.bbc.com/news/world-africa-55786149),[2](
 https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021
+
+
+### Conflits éthiques et religieux au Mozambique
+
+La population du mozambique est majoritairement chrétienne. ([source]([https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/](https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/ "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/"))) Seulement 18% de la population est musulmane. Cependant, ces 18% ce trouvent principalement dans la province du cabo delgado. Les chefs insurgés du Cabo Delgado appartiennent en partie à une secte tenu par un iman kenyan depuis 2014.
+
+Les chrétiens (Makondé) sont favorables au parti au pouvoir (Frelimo). Les musulmans (Mwani "Vivant sur la côte") soutiennent l'opposition (Renamo ou autres). Les Makondé sont de classe sociale supérieure (i.e. plus riche) que les Mwani.
+
+Ces différences ne font qu'exacerbé les conflits depuis plus de 20 ans dans le Cabo Delgado, et son prétexte pour commettre des actes violent.
+
+### Risques cycloniques
+
+Le Cabo Delgado est une zone traversée par des cyclones régulièrement. Le cyclone Kenneth à traversé le Cabo Delgado en 2019 créant beaucoup de chaos dans la zone du Macomia. Au total : 33 morts et des dégâts aux maisons et infrastructures (notamment plusieurs ponts, qui ont rendu l'accès à certaines zones impossible.) ([source]([https://reliefweb.int/report/mozambique/mozambique-cyclone-kenneth-assessment-report-macomia-town-macomia-district-cabo](https://reliefweb.int/report/mozambique/mozambique-cyclone-kenneth-assessment-report-macomia-town-macomia-district-cabo "https://reliefweb.int/report/mozambique/mozambique-cyclone-kenneth-assessment-report-macomia-town-macomia-district-cabo")))
+
+Bien que le cyclone est touché une zone du sud du Cabo Delgado, rien ne peux empêcher un cyclone de circuler au nord près des installations de Total.
