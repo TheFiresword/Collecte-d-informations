@@ -16,7 +16,7 @@ Le projet se constitue de 2 champs gaziers offshore, les concessions d’ENI (bl
 Les sites de production comportent des terminaux, trains de GNL, réservoirs, embarcadères et autres, et sont reliés au site d'extraction par des gazoducs([source2](https://www.tresor.economie.gouv.fr/Articles/2017/12/27/le-gaz-au-mozambique)) d'une longueur de 40km. [source](https://www.mitsui.com/jp/en/innovation/business/mozambique_lng/index.html) 
 
 
-D'après [nsenergy](https://www.nsenergybusiness.com/projects/area-1-mozambique-lng-project/) les deux trains de liquéfaction possède une capacité de 12.88Mtpa (metric tonnes per annum). D'après [eia.gov](https://www.eia.gov/dnav/ng/hist/n3035us3m.htm).
+D'après [nsenergy](https://www.nsenergybusiness.com/projects/area-1-mozambique-lng-project/) les deux trains de liquéfaction possède une capacité de 12.88Mtpa (metric tonnes per annum). D'après [eia.gov](https://www.eia.gov/dnav/ng/hist/n3035us3m.htm), la valeur moyenne en dollard per thousand cubic feet était de 5.44 sur l'année 2021. 12.88Mtpa, en prenant l'arrondi supérieur, vaut 466570000 cubic feet, soit 2.5 Millions de Dollars environ. On peut donc estimer qu'à l'année, ces deux trains de liquéfaction ont une valeur directe de $2M.
 
 Le nombre d'employés directs est estimé à 5000 et le nombre d'employé indirect est estimé à 45 000 d'après [jeuneafrique](https://www.jeuneafrique.com/790761/economie-entreprises/energie-annonce-record-pour-le-megaprojet-mozambique-lng/#:~:text=Selon%20le%20gouvernement%2C%20le%20projet,2025%20et%202050%20au%20moins.)
 
