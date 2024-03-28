@@ -3,20 +3,18 @@
 
 ### Destruction de l'infrastructure
 
+Voir [[Evaluation des risques#Destruction de l'infrastructure]] et [[Analyse des sources ouvertes#Risques cycloniques]]
 
 ## Protestations Humanitaires & Écologiques
 
 
 ### Description du scénario
 
-Le projet Mozambique LNG se déroulant en zone de risque, impliquant un certain nombre de civil (75 000 en 2021 d'après [wikipedia](https://fr.wikipedia.org/wiki/Palma_(Mozambique)#:~:text=Population%20et%20d%C3%A9mographie,-Centre%20de%20sant%C3%A9&text=En%2025%20ans%2C%20la%20ville,comptait%20environ%2075%20000%20habitants.)) dont Total sera jugé [responsable](https://www.amisdelaterre.org/communique-presse/total-faces-criminal-charges-in-french-courts-for-its-negligence-during-the-palma-attack-in-northern-mozambique/) en cas de problème avec une attaque terroriste qui est très probable en raison d'un certain nombres d'attaque ayant eu lieu dans la région et forcé des populations civiles à évacuer ([source](https://www.africanews.com/2023/10/10/mozambique-total-accused-of-involuntary-manslaughter-over-palma-2021-attack/)) ou encore n'apportant un soutien que limité car fuyant les taxes (environ 1.45 milliard) ([source](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf)), causant beaucoup de problèmes environnementaux (étant par exemple une [bombe carbonne](https://defundtotalenergies.org/mozambique-lng) non compatible avec un réchauffement planétaire inférieur ou égal à 1.5°C) et nécessitant un espace terrestre qui a necessité de reloger 310 familles du village de [Quitupo](https://reclaimfinance.org/site/2023/11/17/mozambique-lng-appel-a-se-retirer-du-projet-de-totalenergies/) (où se trouve le site de production d'Afungi de Total), comporte beaucoup d'enjeux susceptible de soulever maintes [protestations](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/).
+Plusieurs ONG pourraient se regrouper afin de faire pression sur les institutions finançant le projet Mozambique LNG, par exemple dans une [lettre ouverte](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf).
+
 ### Conséquences
 
-En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit.
-
-
-
-
+En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit par perte de financement.
 
 
 ## Attaques terroristes

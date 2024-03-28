@@ -4,8 +4,10 @@
 
 ## Catastrophes naturelles
 
-### Destruction de l'infrastructure
+### Solution
 
+Si les dégats empêchent l'acheminement de ressources par voie terrestre, acheminer les ressources (provisions, eau, munitions, essence, etc) avec des bateaux.
+Si les dégats ont coupé la ville et par extension le site de Production d'Afungi de l'éléctricité, utiliser des générateurs à fuel pour alimenter les systèmes critiques et envoyer une équipe pour réparer les dégats.
 
 ## Protestations Humanitaires & Écologiques
 
@@ -13,7 +15,7 @@
 
 Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
 
-Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
+Faire de la désinformation de masse en démontrant que l'apport du projet [Mozambique LNG](https://www.mozambiquelng.co.mz/sustainability/) est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
 
 
 Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
@@ -32,14 +34,14 @@ Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de n
 ### Scénario 2: Attaque de moyenne ampleur
 #### Solutions
 
-* Évacuer la majeure partie des civils avec le plan d’évacuation concu
+* Évacuer la majeure partie des employés et sous-traitants avec le plan d’évacuation.
 * Plan de reconstruction prioritaire plusieurs jours après la fin des combats
 * Prévoir des renforts pour assurer la protection de la ville dans le cas d'une nouvelle attaque
 
 ### Scénario 3: Attaque de grande ampleur
 
 #### Solutions
-* Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
+* Évacuer tous les employés et sous-traitants avec le plan d’évacuation.
 * Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
 
 ### Coupure d'approvisionnement en nourriture & eau & carburant
@@ -79,21 +81,20 @@ Lors de l'occurrence d'une crise, prévenir à intervalle régulier les investis
 
 ### Continuité & Reprise de l'activité
 
-* Prévoir une installation de backup dans une autre ville (Pemba), au cas où l'infrastructure de Palma devient hors service pendant un temps trop long
+* Prévoir une installation de backup dans une autre ville (Pemba) au cas où l'infrastructure de Palma devient hors service pendant un temps trop long (pour stoquer les barils de gas liquéfié, étant donné qu'il est impossible de continuer l'extraction sans accès au gazoduc)
 * Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'éléctricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
 * Prévoir un plan de reconstruction en fonction des dégats.
 
 # Plan d’évacuation:
-* Informer en amont les civils des points de rassemblement
-* Faire se regrouper les civils à des points de rassemblement: Plage, Site Afungi (construire plusieurs lieux de rassemblement à cet endroit, sélectionner des personnes de confiance pour surveiller les civils et faire des fouilles pour s’assurer qu’il n’y a pas de terroristes caché dans le tas)
+* Informer en amont les employés et sous-traitants des points de rassemblement
+* Faire se regrouper les personnes concernées à des points de rassemblement sur le Site Afungi (construire plusieurs lieux de rassemblement à cet endroit, sélectionner des personnes de confiance pour surveiller les civils et faire des fouilles pour s’assurer qu’il n’y a pas de terroristes caché dans le tas)
 * Surveiller les lieux de rassemblement avec des militaires et des groupes armés pendant que les terroristes sont retenus par d’autres militaires (prévoir organisation des équipes militaires en amont, qui se charge de la protection, qui est envoyé au front)
-* Évacuer par divers moyens les civils: camions, bateaux civils, bateaux militaires, sous convoi armé
+* Évacuer par divers moyens les employés et sous-traitants: camions, bateaux civils, bateaux militaires, sous convoi armé
 * Si les routes sont coupées, mobiliser des bateaux en plus pour participer à l’évacuation
 s’organiser avec les gens qui possèdent des moyens de transport à l’avance pour faciliter la rapidité de l’évacuation
-
+* Si des civils requièrent l'aide, accepter de les évacuer.
 
 Action nécessitant plus d'informations: 
-* déterminer à partir de la vitesse d’un bateau, le nombre de gens qu’il sera possible d’évacuer en un jours pour déterminer le nombre de bateaux à utiliser lors de l’évacuation (avec deux cas: routes coupées ou non)
-* Estimer le nombre de civils qu’il sera possible d’évacuer par les routes ou en bateau
+* Estimer le nombre d'employés et de sous traitants qu’il sera possible d’évacuer par bateau
 * déterminer le nombre de soldats nécessaire à la mise en oeuvre du plan d’évacuation (payer des compagnies privées si nécessaire), 
 * estimer le budget nécessaire (par exemple un budget de 500 millions soit 1/40 ème de l'ensemble du budget, reste bien inférieur aux 14 millards nécessaire pour la reprise d'activité ([source](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/)) et 5 fois supérieur au budget annuel du Mozambique [source](https://fr.wikipedia.org/wiki/Forces_arm%C3%A9es_du_Mozambique#:~:text=Elles%20comprennent%20un%20total%20de,conscription%20est%20obligatoire%20au%20Mozambique.) )

@@ -1,0 +1,1096 @@
+{
+  "formatName": "dexie",
+  "formatVersion": 1,
+  "data": {
+    "databaseName": "osintracker-v2",
+    "databaseVersion": 1,
+    "tables": [
+      {
+        "name": "data",
+        "schema": "++id,investigationId,value,[id+investigationId]",
+        "rowCount": 28
+      },
+      {
+        "name": "investigation",
+        "schema": "++id",
+        "rowCount": 3
+      },
+      {
+        "name": "language",
+        "schema": "++id",
+        "rowCount": 2
+      },
+      {
+        "name": "progress",
+        "schema": "++id,dataId,investigationId,[resourceId+dataId]",
+        "rowCount": 0
+      },
+      {
+        "name": "relation",
+        "schema": "++id,investigationId,originId,targetId",
+        "rowCount": 40
+      },
+      {
+        "name": "resourceSet",
+        "schema": "++id,name",
+        "rowCount": 0
+      },
+      {
+        "name": "resourceSetResource",
+        "schema": "++id,resourceId,resourceSetId",
+        "rowCount": 0
+      },
+      {
+        "name": "userResource",
+        "schema": "++id,investigationId,name",
+        "rowCount": 0
+      }
+    ],
+    "data": [{
+      "tableName": "data",
+      "inbound": true,
+      "rows": [
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh7iz2j7v9sz0bt9chdp9xy8",
+          "value": "Mozambique",
+          "id": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711381924190,
+          "position": {
+            "x": 376.1378873011849,
+            "y": -388.88807666834515
+          },
+          "countryCode": "MZ",
+          "editionDate": 1711384209581
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rb66htvpn0bt9xwqe25yu",
+          "value": "Bataille de Palma",
+          "id": "090299fc-0f39-4b59-a905-9760f81ed474",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711382770847,
+          "position": {
+            "x": -104.18446899295809,
+            "y": -329.68763540204714
+          }
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rk06gtwlc0bt9qh7gwqav",
+          "value": "Chrétiens",
+          "id": "1335effc-85d2-492f-adb1-2a4cbc81ac4e",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711654355766,
+          "position": {
+            "x": 454.6406257707587,
+            "y": -333.52083991197713
+          },
+          "editionDate": 1711656150239,
+          "nodeSize": "L"
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh3s7j5i80es0buufreodcj2",
+          "value": "Total",
+          "countryCode": "FR",
+          "id": "1d4edcb3-4976-4edc-8b78-523cb22ae1c8",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711383052062,
+          "position": {
+            "x": 32.31963712671488,
+            "y": -347.34659787639146
+          }
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rk82mtug70buuuzyc9523",
+          "value": "État islamique et insurgés",
+          "id": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711383148354,
+          "position": {
+            "x": 125.3218040806798,
+            "y": -176.94289110488424
+          },
+          "editionDate": 1711383721764
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rjqa3txb70bw1fuqkstvm",
+          "value": "Frelimo ",
+          "countryCode": "MZ",
+          "id": "307cd211-542d-46a7-8172-36ef1438beb9",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711653827916,
+          "position": {
+            "x": 394.88032969695087,
+            "y": -487.95550583666824
+          }
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rjeshtwrw0buj12nxsxh5",
+          "value": "Armée du Mozambique",
+          "countryCode": "MZ",
+          "id": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711384142358,
+          "position": {
+            "x": 270.3363958966404,
+            "y": -484.1381755359282
+          },
+          "editionDate": 1711650172046
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clhfchrcm136z0avyom1ogvpj",
+          "value": "Forêt de Pundanhar",
+          "id": "5d693f6b-3baf-4e4d-a782-3adceb26b6e6",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711652245689,
+          "position": {
+            "x": 156.19831981310367,
+            "y": -325.70575964954065
+          },
+          "editionDate": 1711654685447,
+          "countryCode": "MZ"
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6s4hvvtyfk0buj91gibjf9",
+          "value": "@pinnaclenews",
+          "id": "66a61f46-cce5-4afa-8935-7aece117fc0e",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711382115212,
+          "position": {
+            "x": 66.57910618782029,
+            "y": -72.59035863076753
+          },
+          "editionDate": 1711382127407
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6qt8mrtub20bt9mixmw60z",
+          "value": "Projet Mozambique LNG",
+          "id": "71cabf87-6138-4707-a046-966b79fa4944",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711651176428,
+          "position": {
+            "x": 114.43766379040049,
+            "y": -388.44546009845794
+          },
+          "editionDate": 1711654565949
+        },
+        {
+          "comments": "possède aérodrome (https://ourairports.com/big-map.html)\nne possède pas station d'essence (https://yandex.com/maps/?display-text=Gas%20stations&ll=40.544819%2C-10.751108&mode=search&sctx=ZAAAAAgBEAAaKAoSCdvEyf0OQURAEShIbHcPsCXAEhIJfGDHf4EgxD8ReVc9YB4yuT8iBgABAgMEBSgKOABA86UBSAFqAnJ1nQHNzEw9oAEAqAEAvQH7qdTAwgES5vD37PUGm%2BWD7fgE9aG59uwBggIG0JDQl9ChigIJMTg0MTA1Mjc0kgIAmgIMZGVza3RvcC1tYXBzqgK8ATU2MDg0NjA1MDUsNjAwMzU1OSwxOTYyMTYwNTgyLDM1OTIzMDUyNTEsMzUyOTQ4MzU3MjAsMzk0MTgxNDc0LDQxMjg1MTE1MjQ0LDIwNDc1NjAyNzEyLDIwNDc1NjAyMTc2LDE5MTM4OTQ1NzAsOTE1MTMzODAxLDEzNDM1NzY3MzEsMTY3MDAyNTEzNTAsMTYzNTUzOTIyMSwyMDQ3NTYwMTAxNSwyMDY5OTMwMzYwLDIwNDc1NTk4NzYz&sll=40.544819%2C-10.751108&sspn=0.628967%2C0.393808&text=%D0%90%D0%97%D0%A1&z=11)\npeu couverte en électricité (https://openinframap.org/#9.15/-11.128/40.1943)",
+          "critical": false,
+          "typeId": "clh7iyr7xv9vx0buj6vae6tu3",
+          "value": "Afungi",
+          "id": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711498008882,
+          "countryCode": "MZ",
+          "editionDate": 1711657283375,
+          "position": {
+            "x": 234.42229639960382,
+            "y": -378.2959312357503
+          }
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rk06gtwlc0bt9qh7gwqav",
+          "value": "Musulmans",
+          "id": "7e1c0080-4a74-454f-a5de-83d0cb4575ff",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711654325705,
+          "position": {
+            "x": 598.0616853711841,
+            "y": -230.4612269064668
+          },
+          "nodeSize": "S",
+          "editionDate": 1711656153172
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh7j08iov9zr0bujfjxlbvnk",
+          "value": "pinnaclenews.net",
+          "id": "7e2358f1-aacf-4309-841c-0cab088bd501",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711382080765,
+          "position": {
+            "x": -23.58060068505344,
+            "y": -138.11888744490088
+          }
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh7iz2j7v9sz0bt9chdp9xy8",
+          "value": "Tanzanie",
+          "countryCode": "TZ",
+          "id": "93317216-ca3a-4bc9-857d-b2d19a6edb21",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711654737536,
+          "position": {
+            "x": 319.8692913071625,
+            "y": -150.9117169598445
+          }
+        },
+        {
+          "comments": "https://web.archive.org/web/20211207062450/http://pinnaclenews.net/palma-militares-pegues-a-incendiar-casas-de-populares/",
+          "critical": false,
+          "typeId": "clh6rcu0jtw4n0bujt1zdz84r",
+          "value": "Arlindo Chissale",
+          "id": "c2e23550-e4d4-42b8-a521-a4c206adde16",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711382487729,
+          "position": {
+            "x": -216.78054576407467,
+            "y": -401.35448678344864
+          },
+          "editionDate": 1711650377438
+        },
+        {
+          "comments": "possède aérodrome (https://ourairports.com/big-map.html)\npossède station d'essence (https://yandex.com/maps/?display-text=Gas%20stations&ll=40.544819%2C-10.751108&mode=search&sctx=ZAAAAAgBEAAaKAoSCdvEyf0OQURAEShIbHcPsCXAEhIJfGDHf4EgxD8ReVc9YB4yuT8iBgABAgMEBSgKOABA86UBSAFqAnJ1nQHNzEw9oAEAqAEAvQH7qdTAwgES5vD37PUGm%2BWD7fgE9aG59uwBggIG0JDQl9ChigIJMTg0MTA1Mjc0kgIAmgIMZGVza3RvcC1tYXBzqgK8ATU2MDg0NjA1MDUsNjAwMzU1OSwxOTYyMTYwNTgyLDM1OTIzMDUyNTEsMzUyOTQ4MzU3MjAsMzk0MTgxNDc0LDQxMjg1MTE1MjQ0LDIwNDc1NjAyNzEyLDIwNDc1NjAyMTc2LDE5MTM4OTQ1NzAsOTE1MTMzODAxLDEzNDM1NzY3MzEsMTY3MDAyNTEzNTAsMTYzNTUzOTIyMSwyMDQ3NTYwMTAxNSwyMDY5OTMwMzYwLDIwNDc1NTk4NzYz&sll=40.544819%2C-10.751108&sspn=0.628967%2C0.393808&text=%D0%90%D0%97%D0%A1&z=11)",
+          "critical": false,
+          "typeId": "clh7iyr7xv9vx0buj6vae6tu3",
+          "value": "Palma",
+          "countryCode": "MZ",
+          "id": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711382223768,
+          "position": {
+            "x": 258.627404357569,
+            "y": -269.6791631440216
+          },
+          "editionDate": 1711657291897
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clh6rgi0btwhh0bujll14ydwl",
+          "value": "Cyclones",
+          "id": "da9bc780-262e-42fd-a896-90bb1edfe1b1",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711653980067,
+          "position": {
+            "x": 396.6538558053038,
+            "y": -228.08784953656536
+          },
+          "editionDate": 1711654066747
+        },
+        {
+          "comments": "",
+          "critical": false,
+          "typeId": "clhfchrcm136z0avyom1ogvpj",
+          "value": "Cabo Delgado",
+          "id": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "creationDate": 1711381943049,
+          "position": {
+            "x": 315.9860752589706,
+            "y": -329.78264934214394
+          },
+          "editionDate": 1711382243964,
+          "countryCode": "MZ"
+        }
+      ]
+    },{
+      "tableName": "investigation",
+      "inbound": true,
+      "rows": [
+        {
+          "name": "mozambique",
+          "resourceSetId": "default",
+          "creationDate": 1711381850043,
+          "id": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "editionDate": 1711657292020
+        }
+      ]
+    },{
+      "tableName": "language",
+      "inbound": true,
+      "rows": []
+    },{
+      "tableName": "progress",
+      "inbound": true,
+      "rows": []
+    },{
+      "tableName": "relation",
+      "inbound": true,
+      "rows": [
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "a couvert",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "7e2358f1-aacf-4309-841c-0cab088bd501",
+          "targetId": "090299fc-0f39-4b59-a905-9760f81ed474",
+          "creationDate": 1711382823771,
+          "id": "064b143a-5da7-4ff5-8e0d-340dd82e925f",
+          "resource": "https://web.archive.org/web/20211207064941/http://pinnaclenews.net/cabo-delgado-palma-ataques-abrandaram-e-emboscadas-continuam/",
+          "editionDate": 1711650557616,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "persécute ?",
+          "rating": 1,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "307cd211-542d-46a7-8172-36ef1438beb9",
+          "targetId": "7e1c0080-4a74-454f-a5de-83d0cb4575ff",
+          "creationDate": 1711654489241,
+          "id": "10a46049-c88f-494b-a9f2-d14e9f451704",
+          "editionDate": 1711654533525,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": true,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "proche de",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5d693f6b-3baf-4e4d-a782-3adceb26b6e6",
+          "targetId": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "creationDate": 1711652338906,
+          "id": "1203da1f-6ef9-4817-b7a6-05ec2d5637ba",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "province du",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "creationDate": 1711382936122,
+          "id": "221879a6-fc6d-4424-82cf-f925780e78fd",
+          "editionDate": 1711654582734,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "touché par",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "targetId": "da9bc780-262e-42fd-a896-90bb1edfe1b1",
+          "creationDate": 1711654000088,
+          "id": "2356f2e5-8881-4f7f-800c-bcbde0e1de20",
+          "editionDate": 1711655064135,
+          "resource": "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/; https://reliefweb.int/report/mozambique/mozambique-cyclone-kenneth-assessment-report-macomia-town-macomia-district-cabo",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "journaliste chez",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "c2e23550-e4d4-42b8-a521-a4c206adde16",
+          "targetId": "7e2358f1-aacf-4309-841c-0cab088bd501",
+          "creationDate": 1711382625055,
+          "id": "3119ca5a-3571-40ba-a9a9-9d9a2a7f5854",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "channel telegram de ",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "66a61f46-cce5-4afa-8935-7aece117fc0e",
+          "targetId": "7e2358f1-aacf-4309-841c-0cab088bd501",
+          "creationDate": 1711382698139,
+          "id": "4073c411-1271-498b-b618-1f2e6415afbe",
+          "editionDate": 1711382705233,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endTime": null,
+          "label": "a capturé",
+          "rating": 2,
+          "startDate": 1666994400,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "targetId": "c2e23550-e4d4-42b8-a521-a4c206adde16",
+          "creationDate": 1711384187091,
+          "id": "4643ef09-48a9-4f16-9da9-33c188ce4c70",
+          "editionDate": 1711384343832,
+          "$types": {
+            "endTime": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": true,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "proches + déplacements fréquents",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "targetId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "creationDate": 1711651983317,
+          "id": "48e6f8d5-c666-406f-bf4b-8e2821cf7730",
+          "editionDate": 1711652566209,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "mène",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "1d4edcb3-4976-4edc-8b78-523cb22ae1c8",
+          "targetId": "71cabf87-6138-4707-a046-966b79fa4944",
+          "creationDate": 1711651275416,
+          "id": "4ea064d6-7ffe-4ccf-8d9c-f4178b4181f3",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "présents en",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "targetId": "93317216-ca3a-4bc9-857d-b2d19a6edb21",
+          "creationDate": 1711654792318,
+          "id": "50ce6891-5ff9-4c4a-9293-f7ae50f77bc1",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "ville de",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "targetId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "creationDate": 1711382866776,
+          "id": "5a29fd80-a231-4848-ab79-d1f3a555f842",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "unité militaire de",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "creationDate": 1711384180811,
+          "id": "66544071-98e3-467a-85ce-f0d86a1f983e",
+          "editionDate": 1711384221066,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "soutiennent",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "1335effc-85d2-492f-adb1-2a4cbc81ac4e",
+          "targetId": "307cd211-542d-46a7-8172-36ef1438beb9",
+          "creationDate": 1711654466487,
+          "id": "6b4527e7-576f-4e0b-9bea-f3fff898a4e5",
+          "resource": "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/",
+          "editionDate": 1711654614733,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "majoritaires au",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "1335effc-85d2-492f-adb1-2a4cbc81ac4e",
+          "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "creationDate": 1711654440629,
+          "id": "6dbd5b8f-d3f9-4d25-badf-e6155b9fbf69",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": true,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "proche de",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "targetId": "5d693f6b-3baf-4e4d-a782-3adceb26b6e6",
+          "creationDate": 1711652331555,
+          "id": "75e4ee3d-15ce-4ff1-a15f-e7550cdde4d9",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "au pouvoir",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "307cd211-542d-46a7-8172-36ef1438beb9",
+          "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "creationDate": 1711653873816,
+          "id": "79791325-ec6c-4d59-94d0-13d15c751ee1",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": 1617573600,
+          "endTime": null,
+          "label": "a attaqué et contrôlé",
+          "rating": 2,
+          "startDate": 1616799600,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "targetId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "creationDate": 1711383212313,
+          "id": "7ab3a19b-b939-4da2-8928-918a4579ad26",
+          "editionDate": 1711384444455,
+          "$types": {
+            "endTime": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": true,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "frontière poreuse",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "targetId": "93317216-ca3a-4bc9-857d-b2d19a6edb21",
+          "creationDate": 1711654768812,
+          "id": "7b3c53fb-2f47-4923-aa78-6d823bf9340b",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "repère idéal pour",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5d693f6b-3baf-4e4d-a782-3adceb26b6e6",
+          "targetId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "creationDate": 1711652311548,
+          "id": "821c12d7-19cc-479f-bbb1-91559ce34f1c",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "ville de",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "targetId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "creationDate": 1711498070242,
+          "id": "9a2c752e-a869-47cd-ad1e-a31e93570049",
+          "editionDate": 1711652385065,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "bélligérant",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "targetId": "090299fc-0f39-4b59-a905-9760f81ed474",
+          "creationDate": 1711650876279,
+          "id": "a23c386e-93ee-43ae-ab15-795ffd59ccc8",
+          "editionDate": 1711651830923,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "opposé à ?",
+          "rating": 1,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "targetId": "71cabf87-6138-4707-a046-966b79fa4944",
+          "creationDate": 1711651315241,
+          "id": "aa2b57b1-53cd-4c26-a131-fc46d982f6ad",
+          "resource": "https://twitter.com/ryanmofarrell/status/1305928827290480644?s=19",
+          "editionDate": 1711653244988,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "à",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "71cabf87-6138-4707-a046-966b79fa4944",
+          "targetId": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "creationDate": 1711651279662,
+          "id": "acdd7603-de64-4f20-8d91-a621eb53460c",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "isolée de",
+          "rating": 2,
+          "startDate": 1600552800,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
+          "creationDate": 1711651102142,
+          "id": "ad3d443f-4680-4ecb-9c43-19cfc404b1cb",
+          "resource": "https://clubofmozambique.com/news/mozambique-five-cabo-delgado-districts-isolated-following-bridge-collapse-watch-252643/; https://twitter.com/p_vanostaeyen/status/1307782749454036994?s=19",
+          "editionDate": 1711653420436,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "belligérant",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "targetId": "090299fc-0f39-4b59-a905-9760f81ed474",
+          "creationDate": 1711650867893,
+          "id": "b866be8c-0afa-440f-b457-567791a15f2a",
+          "editionDate": 1711651824981,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": true,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "conflit ethnico-religieux",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "1335effc-85d2-492f-adb1-2a4cbc81ac4e",
+          "targetId": "7e1c0080-4a74-454f-a5de-83d0cb4575ff",
+          "creationDate": 1711654375695,
+          "id": "bdd1b417-8329-4b7d-9a41-d7945a64753b",
+          "resource": "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/",
+          "editionDate": 1711654620034,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "protège",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "targetId": "7700f155-2763-43a3-b22c-77b0b0909333",
+          "creationDate": 1711498079978,
+          "id": "d7c867f5-25e9-4d44-a9ad-570f0a53e40e",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "contrôle",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "307cd211-542d-46a7-8172-36ef1438beb9",
+          "targetId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "creationDate": 1711653880114,
+          "id": "e5bb96e2-35aa-4fe4-a5ec-8989d488318a",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "présents à",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "7e1c0080-4a74-454f-a5de-83d0cb4575ff",
+          "targetId": "fb37bb70-eb0f-4972-8222-0b9404823ffa",
+          "creationDate": 1711654415840,
+          "id": "ee1ca81f-0f63-489f-8687-3bef6ae912f7",
+          "resource": "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/",
+          "editionDate": 1711654625803,
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "a mené opération de siège",
+          "rating": 2,
+          "startDate": 1599429600,
+          "startTime": null,
+          "resource": "https://t.me/pinnaclenews/12198; http://www.acleddata.com/2020/09/15/cabo-ligado-weekly-7-13-september-2020/",
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
+          "targetId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "creationDate": 1711650756717,
+          "id": "f5cc692c-6dca-477f-92a9-74619e92be6b",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": 1617573600,
+          "endTime": null,
+          "label": "a eu lieu à",
+          "rating": 2,
+          "startDate": 1616540400,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "090299fc-0f39-4b59-a905-9760f81ed474",
+          "targetId": "d9030d41-6b7f-4b82-a848-93d7c2c93c90",
+          "creationDate": 1711382857164,
+          "id": "f6e43936-bdc7-47f0-8781-322bf8c60400",
+          "editionDate": 1711384402231,
+          "$types": {
+            "endTime": "undef",
+            "startTime": "undef"
+          }
+        },
+        {
+          "bidirectional": false,
+          "comments": "",
+          "critical": false,
+          "endDate": null,
+          "endTime": null,
+          "label": "a dénoncé des exactions par",
+          "rating": 2,
+          "startDate": null,
+          "startTime": null,
+          "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
+          "originId": "c2e23550-e4d4-42b8-a521-a4c206adde16",
+          "targetId": "5203d522-e8e0-4feb-aaae-74a5f0980c01",
+          "creationDate": 1711650220105,
+          "id": "fd763ccc-7eff-4fb3-a055-e0c381f82ff3",
+          "editionDate": 1711651791425,
+          "resource": "https://web.archive.org/web/20211207062450/http://pinnaclenews.net/palma-militares-pegues-a-incendiar-casas-de-populares/",
+          "$types": {
+            "endDate": "undef",
+            "endTime": "undef",
+            "startDate": "undef",
+            "startTime": "undef"
+          }
+        }
+      ]
+    },{
+      "tableName": "resourceSet",
+      "inbound": true,
+      "rows": []
+    },{
+      "tableName": "resourceSetResource",
+      "inbound": true,
+      "rows": []
+    },{
+      "tableName": "userResource",
+      "inbound": true,
+      "rows": []
+    }]
+  }
+}
