@@ -13,7 +13,7 @@
 
 Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
 
-Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
+Faire de la désinformation de masse en démontrant que l'apport du projet [Mozambique LNG](https://www.mozambiquelng.co.mz/sustainability/) est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
 
 
 Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).

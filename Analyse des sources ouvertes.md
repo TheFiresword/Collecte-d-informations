@@ -39,7 +39,7 @@ Dans les contacts, on retrouve :
 	
 	Vers le 20 Septembre, des rumeurs annoncent que la région entière de Cabo Delgado a été coupée du reste du pays.
 	Deux sources semblent le confirmer :
-	* le site [Club of Mozambique](Metundo, Quifuqui, and Vamizi)
+	* le site Club of Mozambique (Metundo, Quifuqui, and Vamizi)
 	* Monsieur `Pieter Van Ostaeyen`, chercheur invité à la Fondation européenne pour la démocratie à Bruxelles et membre du comité éditorial de l'ICCT à La Haye. Son [tweet](https://twitter.com/p_vanostaeyen/status/1307782749454036994?s=19)
 	Il semblerait également que les terroristes ne se limitent pas au blocage terrestre, mais veulent contrôler l'accès par la mer également.
 	Des attaques ont été menées sur 3 îles : `Metundo`, `Quifuqui`, et  `Vamizi`
