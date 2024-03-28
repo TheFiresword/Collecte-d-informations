@@ -4,8 +4,10 @@
 
 ## Catastrophes naturelles
 
-### Destruction de l'infrastructure
+### Solution
 
+Si les dégats empêchent l'acheminement de ressources par voie terrestre, acheminer les ressources (provisions, eau, munitions, essence, etc) avec des bateaux.
+Si les dégats ont coupé la ville et par extension le site de Production d'Afungi de l'éléctricité, utiliser des générateurs à fuel pour alimenter les systèmes critiques et envoyer une équipe pour réparer les dégats.
 
 ## Protestations Humanitaires & Écologiques
 

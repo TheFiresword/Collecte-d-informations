@@ -3,17 +3,18 @@
 
 ### Destruction de l'infrastructure
 
+Voir [[Evaluation des risques#Destruction de l'infrastructure]] et [[Analyse des sources ouvertes#Risques cycloniques]]
 
 ## Protestations Humanitaires & Écologiques
 
 
 ### Description du scénario
 
-Plusieurs ONG pourraient se regrouper afin de faire pression sur les institutions financant le projet Mozambique LNG, par exemple dans une [lettre ouverte](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf).
+Plusieurs ONG pourraient se regrouper afin de faire pression sur les institutions finançant le projet Mozambique LNG, par exemple dans une [lettre ouverte](https://www.amisdelaterre.org/wp-content/uploads/2023/11/public-statement-mozambique-lng-16112023.pdf).
 
 ### Conséquences
 
-En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit.
+En cas de réaction trop forte du public, le projet pourrait être annulé ou ralentit par perte de financement.
 
 
 ## Attaques terroristes
