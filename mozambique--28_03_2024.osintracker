@@ -69,20 +69,21 @@
           "comments": "",
           "critical": false,
           "typeId": "clh6rb66htvpn0bt9xwqe25yu",
-          "value": "Bataille de Palma",
+          "value": "Violences à Cabo Delgado",
           "id": "090299fc-0f39-4b59-a905-9760f81ed474",
           "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
           "creationDate": 1711382770847,
           "position": {
             "x": -104.18446899295809,
             "y": -329.68763540204714
-          }
+          },
+          "editionDate": 1711664484108
         },
         {
           "comments": "",
           "critical": false,
           "typeId": "clh6rk06gtwlc0bt9qh7gwqav",
-          "value": "Chrétiens",
+          "value": "Chrétiens (Makondés et Changanes)",
           "id": "1335effc-85d2-492f-adb1-2a4cbc81ac4e",
           "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
           "creationDate": 1711654355766,
@@ -90,7 +91,7 @@
             "x": 454.6406257707587,
             "y": -333.52083991197713
           },
-          "editionDate": 1711656150239,
+          "editionDate": 1711663920585,
           "nodeSize": "L"
         },
         {
@@ -111,7 +112,7 @@
           "comments": "",
           "critical": false,
           "typeId": "clh6rk82mtug70buuuzyc9523",
-          "value": "État islamique et insurgés",
+          "value": "Al-Shabab, État islamique et insurgés",
           "id": "20d097d6-8d46-4fe9-9aa9-bff17e8fe3b0",
           "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
           "creationDate": 1711383148354,
@@ -119,7 +120,7 @@
             "x": 125.3218040806798,
             "y": -176.94289110488424
           },
-          "editionDate": 1711383721764
+          "editionDate": 1711664065529
         },
         {
           "comments": "",
@@ -174,8 +175,8 @@
           "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
           "creationDate": 1711382115212,
           "position": {
-            "x": 66.57910618782029,
-            "y": -72.59035863076753
+            "x": 119.06576427280714,
+            "y": -91.1150614842923
           },
           "editionDate": 1711382127407
         },
@@ -212,7 +213,7 @@
           "comments": "",
           "critical": false,
           "typeId": "clh6rk06gtwlc0bt9qh7gwqav",
-          "value": "Musulmans",
+          "value": "Musulmans (Makouas/Mwanis)",
           "id": "7e1c0080-4a74-454f-a5de-83d0cb4575ff",
           "investigationId": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
           "creationDate": 1711654325705,
@@ -221,7 +222,7 @@
             "y": -230.4612269064668
           },
           "nodeSize": "S",
-          "editionDate": 1711656153172
+          "editionDate": 1711663884467
         },
         {
           "comments": "",
@@ -318,7 +319,7 @@
           "resourceSetId": "default",
           "creationDate": 1711381850043,
           "id": "5002131e-52ef-4b1e-b4fc-308a3c6e9305",
-          "editionDate": 1711657292020
+          "editionDate": 1711664484237
         }
       ]
     },{
@@ -609,7 +610,7 @@
           "critical": false,
           "endDate": null,
           "endTime": null,
-          "label": "unité militaire de",
+          "label": "",
           "rating": 2,
           "startDate": null,
           "startTime": null,
@@ -618,7 +619,7 @@
           "targetId": "00ec7b69-a285-4af2-85e3-75b02a025b8d",
           "creationDate": 1711384180811,
           "id": "66544071-98e3-467a-85ce-f0d86a1f983e",
-          "editionDate": 1711384221066,
+          "editionDate": 1711664006471,
           "$types": {
             "endDate": "undef",
             "endTime": "undef",

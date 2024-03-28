@@ -1,4 +1,5 @@
 
+![[osintracker.png]]
 ## Cartographies de Cabo Delgado
 
 Les points d'intérêt à analyser sont le site d'extraction de Total, situé à Afungi, et les régions aux alentours.
@@ -28,7 +29,7 @@ Lien : [Ici](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&ro
 En dehors des routes terrestres, des aérodromes sont présents aux alentours de Palma et Afungi. Ce qui peut constituer un bon point de départ pour des opérations d'exfiltration ou d'évacuation.
 ![[Pasted image 20240326013133.png]]
 Lien : [Ici](https://ourairports.com/big-map.html)
-**Solution** : Construire un héliport très proche du site d'exploitation.
+
 
 Il y a aussi un port au large de Afungi, près du site du projet LNG.
 ![[Pasted image 20240326014949.png]]
@@ -43,4 +44,3 @@ Il y a uniquement 3 stations service (essence) dans la région, comme le montre 
 ![[Pasted image 20240326015733.png]]
 Lien : [Ici](https://yandex.com/maps/?display-text=Gas%20stations&ll=40.544819%2C-10.751108&mode=search&sctx=ZAAAAAgBEAAaKAoSCdvEyf0OQURAEShIbHcPsCXAEhIJfGDHf4EgxD8ReVc9YB4yuT8iBgABAgMEBSgKOABA86UBSAFqAnJ1nQHNzEw9oAEAqAEAvQH7qdTAwgES5vD37PUGm%2BWD7fgE9aG59uwBggIG0JDQl9ChigIJMTg0MTA1Mjc0kgIAmgIMZGVza3RvcC1tYXBzqgK8ATU2MDg0NjA1MDUsNjAwMzU1OSwxOTYyMTYwNTgyLDM1OTIzMDUyNTEsMzUyOTQ4MzU3MjAsMzk0MTgxNDc0LDQxMjg1MTE1MjQ0LDIwNDc1NjAyNzEyLDIwNDc1NjAyMTc2LDE5MTM4OTQ1NzAsOTE1MTMzODAxLDEzNDM1NzY3MzEsMTY3MDAyNTEzNTAsMTYzNTUzOTIyMSwyMDQ3NTYwMTAxNSwyMDY5OTMwMzYwLDIwNDc1NTk4NzYz&sll=40.544819%2C-10.751108&sspn=0.628967%2C0.393808&text=%D0%90%D0%97%D0%A1&z=11)
 Cela signifie que la seule ville proche où on peut se ravitailler en carburant est Palma.
-**Solution** : Faire beaucoup de réserves de carburant, et sécuriser les stocks.

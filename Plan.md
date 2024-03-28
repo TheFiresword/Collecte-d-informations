@@ -1,4 +1,4 @@
-
+Par Sosthène SEDOGBO, Antoine GRAND, Pierre-Gilles LE BOTLAN et Siméon GRAVIS
 # Contexte du Projet
 
 Fichier : [[Contexte du projet]]
@@ -12,6 +12,10 @@ Fichier : [[Evaluation des risques]]
 [[Evaluation des risques#Protestations Humanitaires & Écologiques]]
 ## Attaques terroristes 
 [[Evaluation des risques#Attaques terroristes]]
+## Conflits ethniques et religieux
+[[Evaluation des risques#Conflits ethniques et religieux]]
+
+
 
 # Établissement de scénarios de crise
 
@@ -25,19 +29,8 @@ Fichier : [[Scénarios de risque]]
 ## Attaques terroristes
 [[Scénarios de risque#Attaques terroristes]]
 
-#### Scénario 1: Attaque de faible ampleur
-[[Scénarios de risque#Scénario 1 Attaque de faible ampleur]]
 
-#### Scénario 2: Attaque de moyenne ampleur
-[[Scénarios de risque#Scénario 2 Attaque de moyenne ampleur]]
-#### Scénario 3: Attaque de grande ampleur
-[[Scénarios de risque#Scénario 3 Attaque de grande ampleur]]
-### Coupure d'approvisionnement en nourriture & eau & carburant
-[[Scénarios de risque#Coupure d'approvisionnement en nourriture & eau & carburant]]
-### Attaque sur l'infrastructure à terre
-[[Scénarios de risque#Attaque sur l'infrastructure à terre]]
-### Attaque sur l'infrastructure offshore
-[[Scénarios de risque#Attaque sur l'infrastructure offshore]]
+
 # Élaboration de plans d'action
 
 Fichier : [[Plan d'actions]]
@@ -46,17 +39,9 @@ Fichier : [[Plan d'actions]]
 [[Plan d'actions]]
 
 ## Protestations Humanitaires & Écologiques
+[[Plan d'actions#Protestations Humanitaires & Écologiques]]
 ## Attaques terroristes
+[[Plan d'actions#Attaques terroristes]]
 
-#### Scénario 1: Attaque de faible ampleur
-[[Plan d'actions#Scénario 1 Attaque de faible ampleur]]
-#### Scénario 2: Attaque de moyenne ampleur
-[[Plan d'actions#Scénario 2 Attaque de moyenne ampleur]]
-#### Scénario 3: Attaque de grande ampleur
-[[Plan d'actions#Scénario 3 Attaque de grande ampleur]]
-### Coupure d'approvisionnement en nourriture & eau & carburant
-[[Plan d'actions#Coupure d'approvisionnement en nourriture & eau & carburant]]
-### Attaque sur l'infrastructure à terre
-[[Plan d'actions#Attaque sur l'infrastructure à terre]]
-### Attaque sur l'infrastructure offshore
-[[Plan d'actions#Attaque sur l'infrastructure offshore]]
+## Plan d’évacuation
+[[Plan d'actions#Plan d’évacuation]]

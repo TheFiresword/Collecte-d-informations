@@ -20,7 +20,7 @@ Faire de la désinformation de masse en démontrant que l'apport du projet [Moza
 
 Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
 
-
+Pour apaiser les tensions ethniques, Total pourrait employer des les Makouas et les Mwanis.
 
 
 ## Attaques terroristes
@@ -69,21 +69,21 @@ Les investisseurs sont des
 
 [source 1](https://www.afdb.org/sites/default/files/documents/projects-and-operations/mozambique_-_mozambique_lng_area_1_-_psn_compressed.pdf), [source 2](https://www.ldh-france.org/projet-de-totalenergies-mozambique-lng/)
 
-## Avant la crise
+### Avant la crise
 Mettre en place un plan de gestion de crise que l'on partage aux investisseurs afin de les rassurer. 
 
-## En cas de gestion de crise
+### En cas de gestion de crise
 Lors de l'occurrence d'une crise, prévenir à intervalle régulier les investisseurs de ce qu'il se passe.
 
 
 
 
 
-### Continuité & Reprise de l'activité
+## Continuité & Reprise de l'activité
 
-* Prévoir une installation de backup dans une autre ville (Pemba) au cas où l'infrastructure de Palma devient hors service pendant un temps trop long (pour stoquer les barils de gas liquéfié, étant donné qu'il est impossible de continuer l'extraction sans accès au gazoduc)
-* Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'éléctricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
-* Prévoir un plan de reconstruction en fonction des dégats.
+* Prévoir une installation de backup dans une autre ville (Pemba) au cas où l'infrastructure de Palma devient hors service pendant un temps trop long (pour stocker les barils de gaz liquéfié, étant donné qu'il est impossible de continuer l'extraction sans accès au gazoduc)
+* Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'électricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
+* Prévoir un plan de reconstruction en fonction des dégâts.
 
 # Plan d’évacuation:
 * Informer en amont les employés et sous-traitants des points de rassemblement
@@ -92,7 +92,8 @@ Lors de l'occurrence d'une crise, prévenir à intervalle régulier les investis
 * Évacuer par divers moyens les employés et sous-traitants: camions, bateaux civils, bateaux militaires, sous convoi armé
 * Si les routes sont coupées, mobiliser des bateaux en plus pour participer à l’évacuation
 s’organiser avec les gens qui possèdent des moyens de transport à l’avance pour faciliter la rapidité de l’évacuation
-* Si des civils requièrent l'aide, accepter de les évacuer.
+* Si des civils requièrent l'aide, accepter de les évacuer vers Pemba ou plus au Sud.
+* Construire un héliport très proche du site d'exploitation.
 
 Action nécessitant plus d'informations: 
 * Estimer le nombre d'employés et de sous traitants qu’il sera possible d’évacuer par bateau

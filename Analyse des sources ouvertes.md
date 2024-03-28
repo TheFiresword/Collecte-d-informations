@@ -22,7 +22,7 @@ Dans les contacts, on retrouve :
 ### Recensement des attaques dans Cabo Delgado de septembre 2020 à mars 2021 (6 mois)
 
 - En Septembre 2020
-	Des militants de l'Etat Islamique ont mené une opération de siège de la ville de Palma depuis plusieurs locations. La carte ci-dessous montre en noir, les positions des assaillants, et en jaune les positions des forces militaires.
+	Des militants de l'Etat Islamique ont mené une opération de siège de la ville de Palma depuis plusieurs localisations. La carte ci-dessous montre en noir, les positions des assaillants, et en jaune les positions des forces militaires.
 	![[Pasted image 20240327232424.png]]
 	Lien : [ici](https://t.me/pinnaclenews/12198)
 	La carte suivante retrace toutes les attaques survenues du 7 au 13 Septembre 2020
@@ -65,9 +65,11 @@ Selon cette [source](https://clubofmozambique.com/news/mozambique-five-cabo-delg
 https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2021) aux alentours du 24 Janvier 2021
 
 
-### Conflits éthiques et religieux au Mozambique
+### Conflits ethniques et religieux au Mozambique
 
-La population du mozambique est majoritairement chrétienne. ([source]([https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/](https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/ "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/"))) Seulement 18% de la population est musulmane. Cependant, ces 18% ce trouvent principalement dans la province du cabo delgado. Les chefs insurgés du Cabo Delgado appartiennent en partie à une secte tenu par un iman kenyan depuis 2014.
+D'après des rumeurs sur [Télégram](https://t.me/pinnaclenews/27870), il y aurait une accaparation des recettes dégagées par le projet par des ethnies qui occupent le pouvoir, les Makondés et les Changanes, et, à l'opposée, les Makouas et les Mwanis qui vivent  principalement au nord dans la province de Cabo Delgado ne bénéficie de rien.
+
+La population du Mozambique est majoritairement chrétienne. ([source]([https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/](https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/ "https://www.observatoirepharos.com/pays/mozambique/histoire-du-cabo-delgado-aux-origines-du-conflit-en/"))) Seulement 18% de la population est musulmane. Cependant, ces 18% ce trouvent principalement dans la province du cabo delgado. Les chefs insurgés du Cabo Delgado appartiennent en partie à une secte tenu par un iman kenyan depuis 2014.
 
 Les chrétiens (Makondé) sont favorables au parti au pouvoir (Frelimo). Les musulmans (Mwani "Vivant sur la côte") soutiennent l'opposition (Renamo ou autres). Les Makondé sont de classe sociale supérieure (i.e. plus riche) que les Mwani.
 
