@@ -1,5 +1,65 @@
 
-# Les Investisseurs de LNG Mozambique
+
+# Gestion de Crise 
+
+## Catastrophes naturelles
+
+### Destruction de l'infrastructure
+
+
+## Protestations Humanitaires & Écologiques
+
+### Solutions
+
+Ignorer les enjeux écologique du problème parce que sinon il faudrait fermer l'entreprise (ce qui permettrait à l'humanité de survivre mais bon, entre quelques milliards de plus et sauver le monde, il n'y a pas à hésiter)
+
+Faire de la désinformation de masse en démontrant que l'apport du projet est bénéfique pour les populations locales, apportant emplois et sécurité ([source](https://reporterre.net/Au-Mozambique-Total-se-substitue-a-l-Etat)) dans un pays touché par la [faim](https://hungermap.wfp.org/) et les [catastrophes naturelles](https://reliefweb.int/report/mozambique/mozambique-africa-2021-22-floods-and-cyclones-revised-emergency-appeal-n-mdrmz016).
+
+
+Réaliser un plan de gestion de crise en cas d'attaque (voir plus bas) afin de ne pas avoir à se justifier laborieusement dans des conditions dramatiques remettant en question la capacité de gestion de crise de l'entreprise([source](https://totalenergies.com/fr/medias/actualite/communiques-presse/mozambique-lng-mise-au-point-totalenergies)).
+
+
+
+
+## Attaques terroristes
+
+### Scénario 1: Attaque de faible ampleur
+
+#### Solutions
+* Évacuer uniquement les zones confrontée au danger et construire des hôpitaux et des abris d’urgence, 
+* Prévoir un plan de reconstruction non prioritaire
+
+### Scénario 2: Attaque de moyenne ampleur
+#### Solutions
+
+* Évacuer la majeure partie des civils avec le plan d’évacuation concu
+* Plan de reconstruction prioritaire plusieurs jours après la fin des combats
+* Prévoir des renforts pour assurer la protection de la ville dans le cas d'une nouvelle attaque
+
+### Scénario 3: Attaque de grande ampleur
+
+#### Solutions
+* Évacuer tous les civils avec le plan d’évacuation mentionné plus bas
+* Une fois l’évacuation terminée, faire battre en retraite les militaires à Afungi pour protéger le site, puis une fois les renforts arrivés, reprendre la ville
+
+### Coupure d'approvisionnement en nourriture & eau & carburant
+#### Solutions
+Utiliser des bateaux sous escorte armée pour le ravitaillement.
+
+### Attaque sur l'infrastructure à terre
+
+
+#### Solutions
+Engager des compagnies privées pour surveiller le lieu de production.
+
+### Attaque sur l'infrastructure offshore
+
+
+#### Solutions
+Faire surveiller le site d'extraction par hélicoptère et bateaux armés.
+
+
+## Les Investisseurs de LNG Mozambique
 
 Les investisseurs sont des 
 * Banques privées : Société Générale; Crédit Agricole; Mizuho Bank; JP Morgan; Standard Chartered Bank; MUFG Bank; Sumitomo Mitsui Banking Corporation; Sumitomo Mitsui Trust Holdings; Shinsei Bank; Nippon Life Insurance; ABSA Bank; NBSA; Rand Merchant Bank; Standard Bank; ICBC.
@@ -12,6 +72,16 @@ Mettre en place un plan de gestion de crise que l'on partage aux investisseurs a
 
 ## En cas de gestion de crise
 Lors de l'occurrence d'une crise, prévenir à intervalle régulier les investisseurs de ce qu'il se passe.
+
+
+
+
+
+### Continuité & Reprise de l'activité
+
+* Prévoir une installation de backup dans une autre ville (Pemba), au cas où l'infrastructure de Palma devient hors service pendant un temps trop long
+* Prévoir des réserves de fuel pour alimenter des générateurs, afin de produire de l'éléctricité pour alimenter les systèmes critiques (sécurité physique et industrielle de l'installation)
+* Prévoir un plan de reconstruction en fonction des dégats.
 
 # Plan d’évacuation:
 * Informer en amont les civils des points de rassemblement
